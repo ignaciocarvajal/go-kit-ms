@@ -29,7 +29,7 @@
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
-    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -50,10 +50,10 @@
       <screen x="1080" y="228" width="2560" height="1440" />
     </state>
     <state x="2640" y="742" width="719" height="459" key="EditFileWatcherDialog/1080.228.2560.1440/0.255.1080.1665@1080.228.2560.1440" timestamp="1605487959222" />
-    <state x="2494" y="596" width="1022" height="737" key="SettingsEditor" timestamp="1605487976100">
+    <state x="2494" y="596" width="1022" height="737" key="SettingsEditor" timestamp="1605493290678">
       <screen x="1080" y="228" width="2560" height="1440" />
     </state>
-    <state x="2494" y="596" width="1022" height="737" key="SettingsEditor/1080.228.2560.1440/0.255.1080.1665@1080.228.2560.1440" timestamp="1605487976100" />
+    <state x="2494" y="596" width="1022" height="737" key="SettingsEditor/1080.228.2560.1440/0.255.1080.1665@1080.228.2560.1440" timestamp="1605493290678" />
     <state x="2668" y="577" key="search.everywhere.popup" timestamp="1605488553397">
       <screen x="1080" y="228" width="2560" height="1440" />
     </state>
